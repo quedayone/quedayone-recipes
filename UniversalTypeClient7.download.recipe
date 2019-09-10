@@ -20,7 +20,6 @@
 			<dict>
 				<key>re_pattern</key>
 				<string>(https://bin.extensis.com/UTC-7-[0-9\-]*-M\.zip)</string>
-				https://bin.extensis.com/UTC-7-0-3-M.zip
 				<key>url</key>
 				<string>https://www.extensis.com/support/universal-type-server-7/</string>
 			</dict>
